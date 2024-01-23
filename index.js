@@ -1,61 +1,61 @@
 var shop = [
   {
-    title: 'Tigers',
-    image: './hungry_dog.jpg',
-    price: '7,500-15,000',
-    description: '"its hungry" dog food'
+    title: 'Canned dog food',
+    image: './pictures/wetDogFood1.jpg',
+    price: '75-$150',
+    description: 'Pedigree dog food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
-    price: '7,500-15,000',
-    description: ''
+    title: 'Dry dog food',
+    image: './pictures/dryDogFood1.jpeg',
+    price: '25-$93',
+    description: 'Purina Dog Chow'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
+    title: 'Dry cat food',
+    image: './pictures/dryCatFood1.jpg',
     price: '7,500-15,000',
-    description: ''
+    description: 'Iams cat food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
+    title: 'Wet cat food',
+    image: './pictures/wetCatFood1.jpg',
     price: '7,500-15,000',
-    description: ''
+    description: 'Purina Friskies cat food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
-    price: '7,500-15,000',
-    description: ''
+    title: 'Fish food',
+    image: './pictures/fishFood1.jpg',
+    price: '4-$43',
+    description: 'Wardley goldfish food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
-    price: '7,500-15,000',
-    description: ''
+    title: 'Pond fish food',
+    image: './pictures/fishFood2.jpeg',
+    price: '22-$65',
+    description: 'Tetra PondFood'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
+    title: 'Bird food',
+    image: './pictures/BirdFood1.jpeg',
     price: '7,500-15,000',
-    description: ''
+    description: 'Hartz small bird food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
-    price: '7,500-15,000',
-    description: ''
+    title: 'Iguana food',
+    image: './pictures/dryIguanaFood1.jpg',
+    price: '8-$35',
+    description: 'Natural Iguana Food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
-    price: '7,500-15,000',
-    description: ''
+    title: 'Gerbil food',
+    image: './pictures/dryGerbilFood1.jpg',
+    price: '3-$23',
+    description: 'Higgins Sunburst gerbil food'
   },
   {
-    title: 'Tigers',
-    image: './img/gerbile.jpg',
+    title: 'Rabbit food',
+    image: './pictures/dryRabbitFeed1.jpeg',
     price: '7,500-15,000',
     description: ''
   },
